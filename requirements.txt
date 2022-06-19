@@ -1,0 +1,9 @@
+altair
+nltk
+matplotlib
+rake_nltk
+streamlit
+pandas
+requests
+beautifulsoup4
+scikit_learn
